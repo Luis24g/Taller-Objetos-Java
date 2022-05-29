@@ -1,0 +1,3 @@
+Proyecto hecho en netbeans en el que se entregan las clases de ejemplo
+junto con una pequeña ejecución en la clase main que las instancia e imprime
+los datos por consola.
